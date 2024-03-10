@@ -1,0 +1,9 @@
+---
+AccessModifierOffset: -4
+BasedOnStyle: Google
+IndentWidth: 4
+SortIncludes: false
+AlignAfterOpenBracket: BlockIndent
+BinPackArguments: false
+BinPackParameters: false
+...
