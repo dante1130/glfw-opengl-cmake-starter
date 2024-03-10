@@ -17,5 +17,6 @@ target_sources(Application PRIVATE
 
 target_link_libraries(Application PRIVATE
     glfw
+    glad
 )
 
