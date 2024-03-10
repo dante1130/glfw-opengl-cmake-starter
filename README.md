@@ -42,6 +42,8 @@ I recommend using Ninja so I'll use that as an example.
 
 See here for a list of all CMake generators: https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html
 
+Alternatively, most modern IDEs like Visual Studio and CLion have CMake support, so you may use your IDE to generate instead.
+
 ### Ninja
 
 To generate for the Ninja buildsystem, run the following command:
